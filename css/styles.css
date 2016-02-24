@@ -1,0 +1,20 @@
+.navbar {
+	background-color: #AEBDE6;
+}
+
+.navbar-brand {
+	font-family: "Shadows Into Light", sans-serif, cursive;
+	font-size: 50px;
+}
+
+.lead {
+	font-family: "Shadows Into Light", sans-serif, cursive;
+	font-size: 30px;
+	color: #AEBDE6;
+}
+
+.list-group-item {
+	font-size: 18px;
+	font-family: "Shadows Into Light", sans-serif, cursive;
+}
+
